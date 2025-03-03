@@ -1,17 +1,19 @@
-Este juego fue creado por 5 integrantes para una materia de la universidad (Tecnologia de programacion). 
+# Mario Bros. #
 
-En la carpeta de Diagramas se encuentran los diagramas reducidos, extendidos y de secuencia del juego.
+* Este juego fue creado por 5 integrantes para una materia de la universidad (Tecnologia de programacion). 
 
-Para poder jugar tenes que entrar en Fuentes/src/Grafica/Launche.java luego ahi correr java.
+* En la carpeta de Diagramas se encuentran los diagramas reducidos, extendidos y de secuencia del juego.
 
-Una vez que se abre el juego elegi un modo de juego solo cambia colores de enemigos, bloques y fondo.
+* Para poder jugar tenes que ir al archivo [Launcher.java](Fuentes/src/Grafica/Laucher.java) luego ahi correr java.
 
-Controles: 
-A -> Izquierda.
-D -> Derecha.
-W -> Saltar.
-Space -> Mario tira bolas de fuego (Solo si agarras la Flor de fuego).
+* Una vez que se abre el juego elegi un modo de juego solo cambia colores de enemigos, bloques y fondo.
 
-Al terminar los tres niveles ingresas tu nombre, con el cual segun tu puntaje vas a aprecer en el ranking Top 5 del juego.
+#### Controles: ####
+Tecla  | Funcion
+------ | -------
+A | Izquierda
+D | Derecha
+W | Saltar
+Space | Mario tira bolas de fuego (Solo si agarras la Flor de fuego)
 
-Espero que disfrutes el juego!!
+* Al terminar los tres niveles ingresas tu nombre, con el cual segun tu puntaje vas a aprecer en el ranking Top 5 del juego.
